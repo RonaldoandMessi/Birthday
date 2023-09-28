@@ -1,0 +1,13 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#MyPhoto
+{
+  border-width: 10px;
+  border-style: ridge;
+  border-color: rgb(111, 0, 255);
+}
+
